@@ -1,0 +1,1 @@
+{"uuid": "85e67935-4ca5-44f2-abda-b1207bdf8521", "children": ["05ad37a0-77a6-45da-9118-f972b178d8b4"], "befores": [{"name": "booking_client", "status": "passed", "start": 1791103272695, "stop": 1791103272695}], "afters": [{"name": "booking_client::<lambda>", "start": 1791103274504}], "start": 1791103272695, "stop": 1791103274504}

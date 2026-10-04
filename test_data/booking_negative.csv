@@ -1,0 +1,4 @@
+firstname,lastname,totalprice,depositpaid,expected_status
+,Smith,150,TRUE,500
+Jane,,200,TRUE,500
+Jane,Doe,a,TRUE,500

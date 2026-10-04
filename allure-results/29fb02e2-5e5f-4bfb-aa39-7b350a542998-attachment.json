@@ -1,0 +1,11 @@
+{
+  "firstname": "Arthur",
+  "lastname": "Dent",
+  "totalprice": 142,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2026-11-01",
+    "checkout": "2026-11-10"
+  },
+  "additionalneeds": "Towel"
+}
